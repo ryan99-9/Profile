@@ -1,0 +1,27 @@
+.body{
+   background-color: rgb(202, 52, 74); 
+   display: flex;
+   flex-direction: row;
+   width: 100vw;
+   height: 100vh;
+   
+}
+
+.bGroundA{
+background-color: #f9f9f9;
+color: aqua;
+flex-grow: 100;
+justify-content: center;
+content: none;
+}
+
+.bGroundB{
+background-color: #1fa78f;
+color: brown;
+flex-grow: 100;
+}
+
+/* .img-fluid{
+   transform: skewX(20deg);
+
+} */

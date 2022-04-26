@@ -1,0 +1,21 @@
+.body{
+    background-color:#f9f9f9;
+display: flex;
+flex-direction: column;
+height: 200vh;
+}
+.foto{
+    height: 70vh;
+    margin-left: 200px;
+    margin-bottom: 0px;
+    margin-top: 100px;
+}
+.content1 {
+   flex-grow: 6; 
+   background-color: #1fa78f; 
+    background-image:url(batik.png);
+    background-size:auto;
+    background-repeat:repeat-x;
+    background-position: center;
+    display: flex!important;
+}
